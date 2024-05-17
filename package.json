@@ -1,0 +1,20 @@
+{
+  "name": "094_currency-converter",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "bin": "main.js",
+  "scripts": {
+    "test": "tsc && node main.js"
+  },
+  "keywords": [],
+  "author": "Fizzah Zaidi",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.20"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
